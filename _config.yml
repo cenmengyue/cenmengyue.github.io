@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "unicorn's blog"
+name: "cig's blog"
 # Short bio or description (displayed in the header)
-description: "cv学习中"
+description: "多模态\AIGC\AI Agent"
 
 #
 # Flags below are optional
@@ -40,7 +40,7 @@ footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
   zhihu: 
-  email: cenmengyue@mail.nwpu.edu.cn
+  email: 2081344990@qq.com
   facebook:
   flickr:
   github: cenmengyue 
@@ -55,7 +55,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2025 unicorn
+footer-text: Copyright (c) 2026 cig
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
+  clientID: Ov23lir3m1VZRdbhBq3r
+  clientSecret: ad3c491f74c4ca5ff0a47da52a2dd914fcb57a5c
   repo: cenmengyue.github.io
   owner: cenmengyue
 
