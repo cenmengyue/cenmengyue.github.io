@@ -10,6 +10,7 @@ tags: [Prompt, Literature Review, Research, Notes]
 这个最适合实际工作流。
 
 ### 第一段：搜索筛选阶段
+
 ```text
 请作为多模态文献研究助理，围绕主题“[你的主题]”进行文献搜索。
 
@@ -33,6 +34,7 @@ tags: [Prompt, Literature Review, Research, Notes]
 ```
 
 ### 第二段：生成笔记阶段
+
 ```text
 现在请根据上一步筛选出的论文，为每篇论文生成独立的 Markdown 笔记。
 
@@ -65,6 +67,7 @@ tags: [Prompt, Literature Review, Research, Notes]
 ## 2. 如果你想让它“更像研究员”，可以加这一段
 
 你可以附加到主提示词最后：
+
 ```text
 请以“研究员做文献笔记”的标准来写，而不是只做摘要搬运。尤其要做到：
 
@@ -93,7 +96,6 @@ tags: [Prompt, Literature Review, Research, Notes]
 
 ### 第 2 轮：给主题
 
-例如：
 ```text
 研究主题：多模态大模型中的视觉定位与 reasoning segmentation
 重点关注：
@@ -175,11 +177,10 @@ tags: [Prompt, Literature Review, Research, Notes]
 
 ## 5. 额外建议
 
-为了让 GPT-5.4 网页版更稳定，你每次都可以补一句：
-```
+```text
 请优先保证准确性和结构化，不要为了完整而编造细节。
 ```
-以及：
-```
+
+```text
 若某篇论文你无法确认图示、结果或代码链接，请明确告诉我，不要猜测。
 ```
