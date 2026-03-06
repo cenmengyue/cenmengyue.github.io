@@ -34,6 +34,8 @@ paginate: 8
 
 excerpt_separator: <!-- more -->
 
+timezone: Asia/China
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
@@ -55,7 +57,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2026 cig
+footer-text: Copyright (c) 2026 @CIG
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
