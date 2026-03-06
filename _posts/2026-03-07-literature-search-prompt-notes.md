@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "利用GPT5.4文献搜索整理Prompt"
+title: "利用 GPT-5.4 做文献搜索整理的 Prompt"
 date: 2026-03-07
 tags: [Prompt, Literature Review, Research, Notes]
 ---
@@ -62,7 +62,7 @@ tags: [Prompt, Literature Review, Research, Notes]
 - 一次先输出 1 篇，等我说“继续”再输出下一篇
 ```
 
-## 2.如果你想让它“更像研究员”，可以加这一段
+## 2. 如果你想让它“更像研究员”，可以加这一段
 
 你可以附加到主提示词最后：
 ```text
