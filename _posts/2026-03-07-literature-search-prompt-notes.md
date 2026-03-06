@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "利用 GPT-5.4 做文献搜索整理的 Prompt"
-date: 2026-03-07
 tags: [Prompt, Literature Review, Research, Notes]
 ---
 
