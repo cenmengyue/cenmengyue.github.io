@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "一次 Jekyll 博客首页改造与发布记录"
-date: 2026-06-09
+date: 2026-06-09 00:10:00 +0800
 author: CIG
 categories:
 - tooling
